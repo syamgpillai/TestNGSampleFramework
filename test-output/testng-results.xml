@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="28810" started-at="2020-02-05T09:49:17Z" finished-at="2020-02-05T09:49:46Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="28810" started-at="2020-02-05T09:49:17Z" finished-at="2020-02-05T09:49:46Z">
+      <class name="com.freecrm.qa.testcases.log4jtest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.freecrm.qa.testcases.log4jtest@1ddf84b8]" name="setup" is-config="true" duration-ms="28053" started-at="2020-02-05T09:49:17Z" finished-at="2020-02-05T09:49:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="freeCrmSignupLinkTest()[pri:0, instance:com.freecrm.qa.testcases.log4jtest@1ddf84b8]" name="freeCrmSignupLinkTest" duration-ms="187" started-at="2020-02-05T09:49:45Z" finished-at="2020-02-05T09:49:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- freeCrmSignupLinkTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.freecrm.qa.testcases.log4jtest@1ddf84b8]" name="teardown" is-config="true" duration-ms="473" started-at="2020-02-05T09:49:45Z" finished-at="2020-02-05T09:49:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.freecrm.qa.testcases.log4jtest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
