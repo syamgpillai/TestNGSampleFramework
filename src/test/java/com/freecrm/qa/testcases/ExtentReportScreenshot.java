@@ -1,5 +1,5 @@
 
-//**** This class is about capturing screenshot and attach same to Extent report***
+//**** This class is about capturing screenshot and attach same to Extent report****
 
 
 package com.freecrm.qa.testcases;
